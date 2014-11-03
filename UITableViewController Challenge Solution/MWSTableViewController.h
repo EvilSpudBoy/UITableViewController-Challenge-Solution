@@ -1,5 +1,5 @@
 //
-//  MWSViewController.h
+//  MWSTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Michael W Stevens on 11/3/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MWSViewController : UIViewController
+@interface MWSTableViewController : UITableViewController
 
 @end
